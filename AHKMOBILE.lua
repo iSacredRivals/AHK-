@@ -1,4 +1,4 @@
--- Sacred UI V9.5 | OPEN SOURCE / ENJOY THE CODE / DISFRUTEN EL CODIGO 
+--SACRED AHK VERSION 9.5 | open source / disfruten el codigo 
 
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
